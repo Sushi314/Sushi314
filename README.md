@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sushi314
-- 👀 I’m interested in rock climbing.
+- 👀 I really enjoy rock climbing.
 - 🌱 I have worked with JavaScript, C++, Unity, HTML, CSS, Node, Three, Vite...  
 
 
